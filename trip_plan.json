@@ -11,7 +11,25 @@
         "https://github.com/M4thee/kings-road-data/blob/main/2.jpg?raw=true"
       ],
       "items": [
-        Szczegóły niebawem
+        {
+          "time": "06:30",
+          "description": "Zbiórka na parkingu przed biurem."
+        },
+        {
+          "time": "07:00",
+          "description": "Przejazd w kierunku Pragi."
+        },
+        {
+          "time": "15:00",
+          "description": "Przyjazd do Pragi, zameldowanie w hotelu."
+        },
+        {
+          "time": "16:00",
+          "description": "Zwiedzanie miasta."
+        },
+        {
+          "time": "20:00",
+          "description": "Kolacja w restauracji."
         }
       ]
     },
