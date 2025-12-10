@@ -5,10 +5,10 @@
       "body": "Od 1 stycznia rusza Kings Road. Sprawdź zasady w zakładce info!.",
       "date": "2025-12-07"
     },
-    {
-      "title": "Test dłuższych wiadomości",
-      "body": "To jest długa wiadomość testowa, która ma pomóc mi sprawdzić, jak działa podgląd skróconej treści na liście oraz pełne okno z dymkiem po kliknięciu w wiadomość. W prawdziwym komunikacie moglibyśmy napisać o specjalnym boostcie punktowym, nowych zasadach konkursu albo zmianach w harmonogramie wyjazdu. Zwróć uwagę, że na liście powinieneś zobaczyć tylko tytuł i początek tekstu, natomiast po otwarciu tej wiadomości wyświetli się cała treść, dzięki czemu łatwiej będzie zarządzać dłuższymi ogłoszeniami.",
-      "date": "2025-12-10"
-    }
+{
+  "title": "Nowy boost punktowy i ważne informacje",
+  "body": "To jest bardzo długa wiadomość testowa, której jedynym celem jest sprawdzenie zachowania interfejsu użytkownika w sytuacji, gdy treść komunikatu znacząco przekracza wysokość ekranu telefonu. Dzięki temu możesz zweryfikować, czy po kliknięciu w wiadomość otwierany dymek poprawnie obsługuje przewijanie pionowe oraz czy cała treść jest czytelna i dostępna bez błędów wizualnych.\n\nW realnych warunkach taka wiadomość mogłaby zawierać szczegółowy opis nowego boosta punktowego, dokładne zasady jego naliczania, okres obowiązywania oraz ewentualne wyłączenia. Można tu również umieścić przypomnienia organizacyjne, informacje logistyczne dotyczące wyjazdu, zmiany w planie dnia lub komunikaty od organizatorów konkursu.\n\nWażne jest, aby użytkownik już na liście wiadomości widział jedynie krótki fragment treści, który zachęca do kliknięcia, ale nie przytłacza ilością tekstu. Dopiero po otwarciu dymka powinien mieć dostęp do pełnej treści, którą może swobodnie przewijać, czytać we własnym tempie i zamknąć w dowolnym momencie za pomocą przycisku zamknięcia.\n\nTen akapit istnieje wyłącznie po to, aby zwiększyć długość wiadomości i sprawdzić, czy przewijanie działa płynnie, bez zacięć oraz bez problemów z pozycjonowaniem przycisku zamknięcia. Jeśli widzisz ten fragment, oznacza to, że scroll działa poprawnie i treść nie jest ucinana.\n\nDodajmy jeszcze trochę tekstu, aby mieć absolutną pewność, że zawartość przekracza kilka wysokości ekranu. W tym miejscu mogłyby pojawić się dodatkowe informacje, takie jak często zadawane pytania, krótkie regulaminy, warunki uczestnictwa albo instrukcje krok po kroku dotyczące kolejnych etapów konkursu.\n\nJeżeli po otwarciu tej wiadomości możesz ją płynnie przewijać w górę i w dół, a po zamknięciu wracasz dokładnie do listy wiadomości bez utraty stanu aplikacji, to znaczy, że mechanizm został zaimplementowany poprawnie i spełnia swoje zadanie.",
+  "date": "2025-12-10"
+}
   ]
 }
