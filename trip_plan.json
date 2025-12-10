@@ -1,16 +1,141 @@
 {
-  "lastUpdated": "14.12.2025",
+  "lastUpdated": "07.12.2025",
   "days": [
     {
-      "id": 0,
-      "title": "Plan wyjazdu pojawi się wkrótce",
-      "date": "",
-      "city": "",
+      "id": 1,
+      "title": "Dzień 1 – Kraków → Praga",
+      "date": "26.03.2026",
+      "city": "Praga",
+      "images": [
+        "https://github.com/M4thee/kings-road-data/blob/main/1.webp?raw=true",
+        "https://github.com/M4thee/kings-road-data/blob/main/2.jpg?raw=true"
+      ],
+      "items": [
+        {
+          "time": "06:30",
+          "description": "Zbiórka na parkingu przed biurem."
+        },
+        {
+          "time": "07:00",
+          "description": "Przejazd w kierunku Pragi."
+        },
+        {
+          "time": "15:00",
+          "description": "Przyjazd do Pragi, zameldowanie w hotelu."
+        },
+        {
+          "time": "16:00",
+          "description": "Zwiedzanie miasta."
+        },
+        {
+          "time": "20:00",
+          "description": "Kolacja w restauracji."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Dzień 2 – Praga → Wiedeń",
+      "date": "27.03.2026",
+      "city": "Wiedeń",
+      "images": [
+        "https://github.com/M4thee/kings-road-data/blob/main/3.jpg?raw=true",
+        "https://github.com/M4thee/kings-road-data/blob/main/4.jpg?raw=true",
+        "https://github.com/M4thee/kings-road-data/blob/main/5.jpg?raw=true"
+      ],
+      "items": [
+        {
+          "time": "08:00",
+          "description": "Śniadanie w hotelowej restauracji."
+        },
+        {
+          "time": "10:30",
+          "description": "Wymeldowanie i przejazd w kierunku Wiednia."
+        },
+        {
+          "time": "15:00",
+          "description": "Przyjazd do Wiednia, zameldowanie w hotelu."
+        },
+        {
+          "time": "16:00",
+          "description": "Zwiedzanie Wiednia."
+        },
+        {
+          "time": "20:00",
+          "description": "Kolacja w restauracji."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dzień 3 – Wiedeń → Rzym",
+      "date": "28.03.2026",
+      "city": "Rzym",
+      "images": [
+        "https://github.com/M4thee/kings-road-data/blob/main/6.jpg?raw=true",
+        "https://github.com/M4thee/kings-road-data/blob/main/8.jpg?raw=true",
+        "https://github.com/M4thee/kings-road-data/blob/main/7.jpg?raw=true"
+      ],
+      "items": [
+        {
+          "time": "08:00",
+          "description": "Śniadanie w hotelowej restauracji."
+        },
+        {
+          "time": "10:30",
+          "description": "Wymeldowanie i przejazd w kierunku Rzymu."
+        },
+        {
+          "time": "15:00",
+          "description": "Przyjazd do Rzymu, zameldowanie w hotelu, czas na odpoczynek w hotelowym SPA."
+        },
+        {
+          "time": "18:00",
+          "description": "Zwiedzanie Rzymu + kolacja."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Dzień 4 – Rzym / Watykan",
+      "date": "29.03.2026",
+      "city": "Rzym",
+      "images": [
+        "https://github.com/M4thee/kings-road-data/blob/main/9.webp?raw=true"
+      ],
+      "items": [
+        {
+          "time": "08:00",
+          "description": "Śniadanie w hotelowej restauracji i czas wolny."
+        },
+        {
+          "time": "12:00",
+          "description": "Zwiedzanie Watykanu."
+        },
+        {
+          "time": "19:00",
+          "description": "Kolacja pożegnalna."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Dzień 5 – Rzym → Polska",
+      "date": "30.03.2026",
+      "city": "Powrót",
       "images": [],
       "items": [
         {
-          "time": "",
-          "description": "Najlepsze czeskie piwo, prawdziwy wiedeński sznycel i najlepsza włoska pizza — to nas czeka! 🍺🥩🍕\n\nSzczegółowy rozkład jazdy pojawi się w swoim czasie. Cierpliwości! 🇨🇿🇦🇹🇮🇹"
+          "time": "08:00",
+          "description": "Śniadanie."
+        },
+        {
+          "time": "10:00",
+          "description": "Wymeldowanie i powrót do Polski."
+        },
+        {
+          "time": "23:00",
+          "description": "Przyjazd pod firmę."
         }
       ]
     }
