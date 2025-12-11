@@ -1,9 +1,14 @@
 {
   "messages": [
     {
+      "title": "Aktualizacja aplikacji",
+      "body": "Zaktualizuj swoją aplikację pobierając ją z Google Drive pod adresem https://drive.google.com/drive/folders/11jGWz0uufMkg59zvkIq9zfm1wVtDp87D?usp=sharing.",
+      "date": "2025-12-14"
+    },
+     {
       "title": "Gotowy do drogi?",
       "body": "Witaj, {{name}}!\n\nJuż wkrótce rusza rywalizacja o wyjątkowy wyjazd. Ośmiu członków Kings, 5 dni, 3 kraje i jeden bus...\n\nJak wziąć w nim udział?\nTo proste — wystarczy robić swoje i trafić do TOP 5. Czy to zbyt wiele?\n\nZapoznaj się z regulaminem dostępnym w zakładce Info i daj z siebie wszystko!",
-      "date": "2025-12-14"
+      "date": "2025-12-10"
     }
   ]
 }
