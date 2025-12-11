@@ -3,12 +3,12 @@
   "days": [
     {
       "id": 1,
-      "title": "26.03 – Kraków → Praga",
+      "title": "Dzień 1 – Kraków → Praga",
       "date": "26.03.2026",
       "city": "Praga",
       "images": [
-        "https://github.com/M4thee/kings-road-data/blob/main/1.webp?raw=true",
-        "https://github.com/M4thee/kings-road-data/blob/main/2.jpg?raw=true"
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/1.webp",
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/2.jpg"
       ],
       "items": [
         {
@@ -19,13 +19,13 @@
     },
     {
       "id": 2,
-      "title": "27.03 – Praga → Wiedeń",
+      "title": "Dzień 2 – Praga → Wiedeń",
       "date": "27.03.2026",
       "city": "Wiedeń",
       "images": [
-        "https://github.com/M4thee/kings-road-data/blob/main/3.jpg?raw=true",
-        "https://github.com/M4thee/kings-road-data/blob/main/4.jpg?raw=true",
-        "https://github.com/M4thee/kings-road-data/blob/main/5.jpg?raw=true"
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/3.jpg",
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/4.jpg",
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/5.jpg"
       ],
       "items": [
         {
@@ -36,13 +36,13 @@
     },
     {
       "id": 3,
-      "title": "28.03 – Wiedeń → Wenecja",
+      "title": "Dzień 3 – Wiedeń → Wenecja",
       "date": "28.03.2026",
       "city": "Wenecja",
       "images": [
-        "https://github.com/M4thee/kings-road-data/blob/main/6.jpg?raw=true",
-        "https://github.com/M4thee/kings-road-data/blob/main/8.jpg?raw=true",
-        "https://github.com/M4thee/kings-road-data/blob/main/7.jpg?raw=true"
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/6.jpg",
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/8.jpg",
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/7.jpg"
       ],
       "items": [
         {
@@ -53,11 +53,11 @@
     },
     {
       "id": 4,
-      "title": "29.03 – Wenecja",
+      "title": "Dzień 4 – Wenecja / Watykan",
       "date": "29.03.2026",
       "city": "Wenecja",
       "images": [
-        "https://github.com/M4thee/kings-road-data/blob/main/9.webp?raw=true"
+        "https://raw.githubusercontent.com/M4thee/kings-road-data/main/9.webp"
       ],
       "items": [
         {
@@ -68,7 +68,7 @@
     },
     {
       "id": 5,
-      "title": "30.03 – Wenecja → Kraków",
+      "title": "Dzień 5 – Wenecja → Polska",
       "date": "30.03.2026",
       "city": "Powrót",
       "images": [],
