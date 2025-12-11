@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "07.12.2025",
+  "lastUpdated": "14.12.2025",
   "days": [
     {
       "id": 1,
-      "title": "Dzień 1 – Kraków → Praga",
+      "title": "26.03 – Kraków → Praga",
       "date": "26.03.2026",
       "city": "Praga",
       "images": [
@@ -12,30 +12,14 @@
       ],
       "items": [
         {
-          "time": "06:30",
-          "description": "Zbiórka na parkingu przed biurem."
-        },
-        {
-          "time": "07:00",
-          "description": "Przejazd w kierunku Pragi."
-        },
-        {
-          "time": "15:00",
-          "description": "Przyjazd do Pragi, zameldowanie w hotelu."
-        },
-        {
-          "time": "16:00",
-          "description": "Zwiedzanie miasta."
-        },
-        {
-          "time": "20:00",
-          "description": "Kolacja w restauracji."
+          "time": "",
+          "description": "Szczegółowy plan wkrótce."
         }
       ]
     },
     {
       "id": 2,
-      "title": "Dzień 2 – Praga → Wiedeń",
+      "title": "27.03 – Praga → Wiedeń",
       "date": "27.03.2026",
       "city": "Wiedeń",
       "images": [
@@ -45,30 +29,14 @@
       ],
       "items": [
         {
-          "time": "08:00",
-          "description": "Śniadanie w hotelowej restauracji."
-        },
-        {
-          "time": "10:30",
-          "description": "Wymeldowanie i przejazd w kierunku Wiednia."
-        },
-        {
-          "time": "15:00",
-          "description": "Przyjazd do Wiednia, zameldowanie w hotelu."
-        },
-        {
-          "time": "16:00",
-          "description": "Zwiedzanie Wiednia."
-        },
-        {
-          "time": "20:00",
-          "description": "Kolacja w restauracji."
+          "time": "",
+          "description": "Szczegółowy plan wkrótce."
         }
       ]
     },
     {
       "id": 3,
-      "title": "Dzień 3 – Wiedeń → Rzym",
+      "title": "28.03 – Wiedeń → Rzym",
       "date": "28.03.2026",
       "city": "Rzym",
       "images": [
@@ -78,26 +46,14 @@
       ],
       "items": [
         {
-          "time": "08:00",
-          "description": "Śniadanie w hotelowej restauracji."
-        },
-        {
-          "time": "10:30",
-          "description": "Wymeldowanie i przejazd w kierunku Rzymu."
-        },
-        {
-          "time": "15:00",
-          "description": "Przyjazd do Rzymu, zameldowanie w hotelu, czas na odpoczynek w hotelowym SPA."
-        },
-        {
-          "time": "18:00",
-          "description": "Zwiedzanie Rzymu + kolacja."
+          "time": "",
+          "description": "Szczegółowy plan wkrótce."
         }
       ]
     },
     {
       "id": 4,
-      "title": "Dzień 4 – Rzym / Watykan",
+      "title": "29.03 – Rzym",
       "date": "29.03.2026",
       "city": "Rzym",
       "images": [
@@ -105,37 +61,21 @@
       ],
       "items": [
         {
-          "time": "08:00",
-          "description": "Śniadanie w hotelowej restauracji i czas wolny."
-        },
-        {
-          "time": "12:00",
-          "description": "Zwiedzanie Watykanu."
-        },
-        {
-          "time": "19:00",
-          "description": "Kolacja pożegnalna."
+          "time": "",
+          "description": "Szczegółowy plan wkrótce."
         }
       ]
     },
     {
       "id": 5,
-      "title": "Dzień 5 – Rzym → Polska",
+      "title": "30.03 – Rzym → Kraków",
       "date": "30.03.2026",
       "city": "Powrót",
       "images": [],
       "items": [
         {
-          "time": "08:00",
-          "description": "Śniadanie."
-        },
-        {
-          "time": "10:00",
-          "description": "Wymeldowanie i powrót do Polski."
-        },
-        {
-          "time": "23:00",
-          "description": "Przyjazd pod firmę."
+          "time": "",
+          "description": "Szczegółowy plan wkrótce."
         }
       ]
     }
