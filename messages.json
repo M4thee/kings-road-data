@@ -1,24 +1,9 @@
 {
   "messages": [
        {
-      "title": "W Szczebrzeszynie chrząszcz brzmi w trzcinie",
-      "body": "A Szczebrzeszyn z tego łynie, że Karpiel Mecha całuje po łysinie.",
-      "date": "2025-12-07"
+      "title": "Gotowy do drogi?",
+      "body": "Witaj, Królu Złoty. /n /n Już wkrótce rusza rywalizacja o wyjątkowy wyjazd. 8 Kings'ów, 5 dni, 3 kraje i jeden bus... /n Jak wziąć w nim udział? /n To proste, wystarczy być w TOP5 PDR. Czy to zbyt wiele? /n /n Zapoznaj się z regulaminem dostpny, w zakładce info i daj z siebie wszystko!",
+      "date": "2025-12-14"
     },
-    {
-      "title": "Test dodawania wiadomości",
-      "body": "Sprawdzam, czy dochodzą nowe wiadomości",
-      "date": "2025-12-07"
-    },
-    {
-      "title": "Start konkursu",
-      "body": "Od 1 stycznia rusza Kings Road. Sprawdź zasady w zakładce info!.",
-      "date": "2025-12-09"
-    },
-    {
-      "title": "Nowy boost punktowy i ważne informacje",
-      "body": "To jest długa wiadomość testowa, która ma pomóc Ci sprawdzić, jak działa podgląd skróconej treści na liście oraz pełne okno z dymkiem po kliknięciu w wiadomość. W prawdziwym komunikacie moglibyśmy napisać o specjalnym boostcie punktowym, nowych zasadach konkursu albo zmianach w harmonogramie wyjazdu. Zwróć uwagę, że na liście powinieneś zobaczyć tylko tytuł i początek tekstu, natomiast po otwarciu tej wiadomości wyświetli się cała treść, dzięki czemu łatwiej będzie zarządzać dłuższymi ogłoszeniami. Dodatkowo ta wiadomość zawiera kilka akapitów, aby sprawdzić, jak aplikacja radzi sobie z przewijaniem długich treści. Każdy akapit będzie oddzielony krótkim opisem, tak aby tekst był czytelny i naturalny do testów.\n\nPierwszy akapit testowy: W tym fragmencie moglibyśmy informować uczestników o dokładnych terminach przyznawania punktów, zasadach boostów tygodniowych oraz warunkach dodatkowych nagród, takich jak premie za aktywność. Upewnij się, że przewijanie działa płynnie i nie ucina żadnych linijek tekstu nawet przy bardzo długich wiadomościach.\n\nDrugi akapit testowy: Aplikacja powinna poprawnie wyświetlać wieloliniowe wiadomości bez utraty formatowania i z zachowaniem marginesów. Jeśli wszystko działa prawidłowo, przewijanie będzie pozwalało zapoznać się z całym tekstem aż do końca wiadomości. W tej części możesz też sprawdzić, czy czcionka pozostaje czytelna i nie przycina się w dolnej części okna dialogowego.\n\nTrzeci akapit testowy: To już końcowy fragment wiadomości, który ma jedynie zwiększyć objętość treści, by upewnić się, że przewijanie działa nawet przy bardzo dużych blokach tekstu. Dzięki temu możemy przetestować maksymalny rozmiar wiadomości, jaki aplikacja może poprawnie obsłużyć w interfejsie użytkownika.\n\nCzwarty akapit testowy: Dodajemy jeszcze jeden fragment, żeby zwiększyć długość wiadomości. Można tutaj dodać dodatkowe informacje o harmonogramie, terminach publikacji wyników, zasadach naliczania bonusów oraz przypomnienie o konieczności aktualizacji aplikacji przed kolejnym etapem konkursu. Ten akapit ma zapewnić, że przewijanie nadal będzie płynne, a tekst nie zostanie przycięty na końcu okna dialogowego.",
-      "date": "2025-12-10"
-    }
   ]
 }
