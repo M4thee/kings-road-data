@@ -2,7 +2,7 @@
   "messages": [
     {
       "title": "Gotowy do drogi?",
-      "body": "Witaj!\n\nJuż wkrótce rusza rywalizacja o wyjątkowy wyjazd. Ośmiu członków Kings, 5 dni, 3 kraje i jeden bus...\n\nJak wziąć w nim udział?\nTo proste — wystarczy robić swoje i trafić do TOP 5. Czy to zbyt wiele?\n\nZapoznaj się z regulaminem dostępnym w zakładce Info i daj z siebie wszystko!",
+      "body": "Witaj, {{name}}!\n\nJuż wkrótce rusza rywalizacja o wyjątkowy wyjazd. Ośmiu członków Kings, 5 dni, 3 kraje i jeden bus...\n\nJak wziąć w nim udział?\nTo proste — wystarczy robić swoje i trafić do TOP 5. Czy to zbyt wiele?\n\nZapoznaj się z regulaminem dostępnym w zakładce Info i daj z siebie wszystko!",
       "date": "2025-12-14"
     }
   ]
