@@ -2,22 +2,22 @@
   "lastUpdated": "2026-01-01",
   "participants": [
     { "name": "Andrzej Albinowski", "points": 0 },
-    { "name": "Bartosz Łypaczewski", "points": 0 },
+    { "name": "Bartosz Łypaczewski", "points": 1 },
     { "name": "Damian Kuciński", "points": 0 },
     { "name": "Dawid Łypaczewski", "points": 0 },
     { "name": "Dorota Siciak", "points": 0 },
     { "name": "Grzegorz Krawczyk", "points": 0 },
     { "name": "Hubert Siemieńczuk", "points": 0 },
-    { "name": "Jan Osmenda", "points": 2 },
-    { "name": "Janusz Uchwat", "points": 0 },
+    { "name": "Jan Osmenda", "points": 5 },
+    { "name": "Janusz Uchwat", "points": 1 },
     { "name": "Kacper Obydziński", "points": 0 },
     { "name": "Kamil Wiśniewski", "points": 0 },
     { "name": "Krzysztof Furman", "points": 0 },
     { "name": "Łukasz Wójcik", "points": 0 },
     { "name": "Maciej Mońko", "points": 0 },
     { "name": "Maciej Pasternak", "points": 0 },
-    { "name": "Mateusz Rapczewski", "points": 0 },
-    { "name": "Michał Brodziński", "points": 0 },
+    { "name": "Mateusz Rapczewski", "points": 1 },
+    { "name": "Michał Brodziński", "points": 2 },
     { "name": "Michał Röhrig", "points": 0 },
     { "name": "Michał Stawiak", "points": 0 },
     { "name": "Natan Krasoń", "points": 1 },
@@ -26,7 +26,11 @@
     { "name": "Piotr Kępiński", "points": 0 },
     { "name": "Piotr Pelczarski", "points": 0 },
     { "name": "Piotr Pizło", "points": 0 },
-    { "name": "Szymon Piecuch", "points": -20 },
-    { "name": "Włodzimierz Krasiński", "points": 0 }
+    { "name": "Szymon Piecuch", "points": 0 },
+    { "name": "Włodzimierz Krasiński", "points": 1 }
+    { "name": "Michał Jankowski", "points": 0 }
+    { "name": "Sandra Patoła", "points": 0 }
+    { "name": "Marcin Pałka", "points": 0 }
+    { "name": "Paweł Kwiatkowski", "points": 0 }
   ]
 }
